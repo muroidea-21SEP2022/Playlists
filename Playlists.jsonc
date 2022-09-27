@@ -1,4 +1,13 @@
 [
+   {
+        "name": "VM(incomplete)",
+        "tag": ["VM", "Voicemith", "public"],
+        "route": "Demo/VM.jsonc",
+        "maintainer": {
+            "name": "muroidea-21SEP2022",
+            "url": "https://github.com/muroidea-21SEP2022"
+        }
+    },
     {
         "name": "DemoSongList",
         "tag": ["Demo", "public"],
