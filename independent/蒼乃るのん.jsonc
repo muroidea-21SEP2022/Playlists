@@ -1,0 +1,30 @@
+/**
+ * 歌單格式為JSON with Comments
+ * ["VideoID", StartTime, EndTime, "Title"]
+ * VideoID: 必須用引號包住，為字串型態。
+ * StartTime: 只能是非負數。如果要從頭播放，輸入0
+ * EndTime: 只能是非負數。如果要播放至尾，輸入0
+ * Title?: 必須用引號包住，為字串型態
+ * SubSrc?: 必須用雙引號包住，為字串型態，可選
+ * 記得下載轉換工具，記得最後一條之前都要有半型逗號,一看就知道是亂抄一通還沒開始寫
+ */
+[   // 18SEP2022【#歌枠/Singing】懐かしアニソン多めのげんきな歌枠【蒼乃るのん/新人VTuber】
+["8ScqRmJYUyc", 813, 977, "アンパンマンのマーチ"],
+["8ScqRmJYUyc", 1273, 5125, "勇侠青春謳"],
+["8ScqRmJYUyc", 1945, 5766, "空に歌えば"],
+["8ScqRmJYUyc", 2753, 6610, "Rage on"],
+["8ScqRmJYUyc", 3528, 3750, "吉原ラメント"],
+["8ScqRmJYUyc", 4004, 4228, "おジャ魔女カーニバル"],
+["8ScqRmJYUyc", 4525, 4814, "僕たちはひとつの光"],
+["8ScqRmJYUyc", 5307, 5516, "異邦人"],
+["8ScqRmJYUyc", 5687, 5907, "津軽海峡・冬景色"],
+["8ScqRmJYUyc", 6319, 6530, "マジLOVE1000%"],
+["8ScqRmJYUyc", 6986, 7285, "Magia"],
+["8ScqRmJYUyc", 7521, 7767, "to the beginning"],
+["8ScqRmJYUyc", 8131, 8385, "BUTTER-FLY"]
+
+  // 17SEP2022 【#歌枠/Singing】初見さん歓迎！アニソン多めのパワフル歌枠♩【蒼乃るのん/#新人VTuber】 
+
+  // 15SEP2022 【#歌枠/Singing】男性ボーカル多めの低音歌枠【蒼乃るのん/#新人VTuber】
+  
+]
