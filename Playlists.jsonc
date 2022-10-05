@@ -11,7 +11,7 @@
 {"name":"VM","name_display":"VM的大家(未齊全)","tag": ["VM","Voicemith","Taiwanese","public"],
 "route":"VM/VM.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"Voicemith's VTubers"},
-{"name":"hololive","name_display":"Hololive, Aki Rosenthal","tag": ["hololive","ホロライブ","japanese","Aki","Aki Rosenthal","public"],
+{"name":"hololive","name_display":"Aki Rosenthal","tag": ["hololive","ホロライブ","japanese","Aki","Aki Rosenthal","public"],
 "route":"hololive/hololive.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"Aki Rosenthal"},
 {"name":"QuonTamaSongList","name_display":"久遠たま QuonTama","tag":["久遠たま","Quon","Tama","QuonTama","public"],
