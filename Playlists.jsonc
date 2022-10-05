@@ -1,4 +1,8 @@
-[{"name":"蒼乃るのん","name_display":"蒼乃るのん","tag": ["lunon","蒼乃","蒼乃るのん","independent","Japanese","public"],
+[
+{"name":"DIKA豚足姫","name_display":"DIKA豚足姫","tag": ["DIKA","豚足姫","DIKA豚足姫","independent","Taiwanese","public"],
+"route":"independent/DIKA豚足姫.jsonc",
+"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"DIKA豚足姫"},
+{"name":"蒼乃るのん","name_display":"蒼乃るのん","tag": ["lunon","蒼乃","蒼乃るのん","independent","Japanese","public"],
 "route":"independent/蒼乃るのん.jsonc","maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"蒼乃るのん"},
 {"name":"Kima","name_display":"北原きませり","tag": ["Kima","きま","北原きませり","independent","Japanese","public"],
 "route":"independent/Kima.Ch.jsonc","maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"北原きませり"},
