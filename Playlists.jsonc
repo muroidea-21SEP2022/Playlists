@@ -1,4 +1,7 @@
 [
+{"name":"Yamada of Stone.","name_display":"Yamada of Stone. / 石ころの山田。","tag": ["石ころの山田","山田","Yamada","Yamada of Stone.","independent","Japanese","public"],
+"route":"independent/Yamada Stone.jsonc",
+"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"石ころの山田。"},
 {"name":"DIKA豚足姬","name_display":"DIKA豚足姬","tag": ["DIKA","豚足姬","DIKA豚足姬","independent","Taiwanese","public"],
 "route":"independent/DIKA豚足姬.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"DIKA豚足姬"},
