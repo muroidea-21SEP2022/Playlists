@@ -1,0 +1,13 @@
+[
+ {
+        "name": "YOSHIKASongList",
+        "name_display": "YOSHIKA",
+        "tag": ["YOSHIKA", "public"],
+        "route": "YOSHIKA/YOSHIKASongList.jsonc",
+        "maintainer": {
+            "name": "ralfjr",
+            "url": "https://github.com/ralfjr"
+        },
+        "singer": "YOSHIKA"
+    }
+  ]
