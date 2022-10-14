@@ -10,8 +10,9 @@
 |      |                                                                |
 |------|----------------------------------------------------------------|
 | Main | <https://raw.githubusercontent.com/jim60105/Playlists/minify/> |
-| Demo | <https://raw.githubusercontent.com/jim60105/Playlists/Demo/>   |
-
+| Demo | <https://raw.githubusercontent.com/jim60105/Playlists/Demo/> |
+| 這頁面 | <https://raw.githubusercontent.com/uronoidea21-SEP2022/Playlists/mimic/>   |
+我還在想要不要再開其他
 ## 運作流程
 
  1. 此repo對各Vtuber分別開branch
@@ -27,6 +28,8 @@
  一開始我會看幾次PR，確定熟了就讓你自行merge
   - 所有新的歌單請從 [BasePlaylist](https://github.com/jim60105/Playlists/tree/BasePlaylist) 這個tag開始
 - ~~Google Sheet共編~~ (此方案目前未實做，相關討論請見[此issue](https://github.com/jim60105/Playlists/issues/7))
+
+(因為自己想加得太多太亂所以沒PR push過去而重開一個)
 
 ## 維護人員清單
 
@@ -54,4 +57,14 @@
 | [獅子神レオナ](https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A) | [(Auto Generated)](https://github.com/jim60105/Playlists/tree/AutoGenerator/AutoGenerator/AutoGenerator) |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/AutoGenerator?label=%20&style=for-the-badge)|
 | [松永依織](https://www.youtube.com/channel/UC--zuEfONeFXPvLqX0Kvbuw) | [(Auto Generated)](https://github.com/jim60105/Playlists/tree/AutoGenerator/AutoGenerator/AutoGenerator) |![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jim60105/Playlists/AutoGenerator?label=%20&style=for-the-badge)|
 
+
+另外 這邊有
+狸咪 狸ミヒ
+Yamada of Stone. / 石ころの山田。
+DIKA豚足姬
+蒼乃るのん
+北原きませり
+Aki Rosenthal
+
+(皆不完整)
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
