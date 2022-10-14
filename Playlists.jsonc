@@ -4,7 +4,7 @@
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"皇黒夢"},
 {"name":"anyway_test","name_display":"不要問","tag": ["test","public"],
 "route":"test.jsonc",
-"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"URika"},
+"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"Various"},
 {"name":"Voicemith","name_display":"VM箱的朋朋","tag": ["VM","Voicemith","Taiwanese","public"],
 "route":"VoiceMith/Voicemith.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"VM箱的朋朋"},
