@@ -12,7 +12,7 @@
 | Main | <https://raw.githubusercontent.com/jim60105/Playlists/minify/> |
 | Demo | <https://raw.githubusercontent.com/jim60105/Playlists/Demo/> |
 | 這頁面 | <https://raw.githubusercontent.com/uronoidea21-SEP2022/Playlists/mimic/>   |
-我還在想要不要再開其他 (**這頁面有包含原版的檔案沒刪)
+我還在想要不要再開其他 (**這頁面有包含原版的檔案沒刪 之前刪過一次就整個branch廢了 原因不明就別動算了)
 
 
 
