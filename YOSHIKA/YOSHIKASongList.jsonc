@@ -8,6 +8,23 @@
  * SubSrc?: 必須用雙引號包住，為字串型態，可選
  */
 [   
+    //2022.10.18【 #歌枠 】楽しく歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["fCoHCQOq7ww", 847, 1059, "COLORS"],
+    ["fCoHCQOq7ww", 6933, 7199, "Lascia Ch'io pianga"],
+    
+    //2022.10.17【 #歌枠 】深夜の元気な歌枠だYO🍠Singing Stream 🍠【 Vtuber 】
+    ["hf2NEZ-UwLE", 4808, 5119, "愛しい人へ"],
+    ["hf2NEZ-UwLE", 16813, 17009, "ビンクスの酒"],
+    
+    //2022.10.15 【 #歌枠 】好きな曲を好きなだけ歌うYO🍠Singing Stream 🍠【 Vtuber 】
+    ["9oVqdiWResw", 2433, 2689, "Chau#"],
+    ["9oVqdiWResw", 3632, 3875, "瑠璃色の地球"],
+    ["9oVqdiWResw", 7826, 8117, "明日への扉"],
+    ["9oVqdiWResw", 9806, 10072, "You are a ghost, I am a ghost"],
+    
+    //2022.10.12 【 #歌枠 】ジブリメドレー歌枠🍠Singing Stream 🍠【 Vtuber 】
+    ["qi8J4JdmBOY", 2109, 2348, "カントリー・ロード"],
+    
     //2022.10.11 【 #歌枠 】ただいま！高み目指して歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["nPeFb4HcL1Q", 7075, 7306, "太陽曰く燃えよカオス"],
     ["nPeFb4HcL1Q", 14558, 14756, "小さな祈り"],
@@ -41,6 +58,7 @@
     //2022.09.07 【 #歌枠 】楽しく元気にリクエスト歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["Cap5sPYkK7M", 13261, 13490, "勇気100％"],
     ["Cap5sPYkK7M", 8203, 8446, "永遠のあくる日"],
+    //["Cap5sPYkK7M", 1852, 2118, "You are a ghost, I am a ghost"],
     
     //2022.09.05 【 #歌枠 】ピアノ伴奏縛り歌枠＆感謝のSC読み🍠Singing Stream 🍠【 Vtuber 】
     ["dDY6S-mSWqM", 4798, 5051, "糸"],
@@ -167,11 +185,12 @@
     //2022.07.23 【 #歌枠 】元気いっぱい歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["QGPZyWXLStg", 3965, 4208, "恋"],
     ["QGPZyWXLStg", 4815, 5111, "１・２・３"],
-    ["QGPZyWXLStg", 5357, 5622, "You are a ghost, I am a ghost"],
+    //["QGPZyWXLStg", 5357, 5622, "You are a ghost, I am a ghost"],
     
     //2022.07.21 【 #歌枠 】ルンルンな歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["xGNiJn_iD1Q", 5374, 5641, "Legend of Mermaid"],
     //["xGNiJn_iD1Q", 6891, 7135, "永遠のあくる日"],
+    ["xGNiJn_iD1Q", 5962, 6211, "CLEAR"],
         
     //2022.07.19 【 #歌枠 】深夜の元気な歌枠🍠Singing Stream 🍠【 Vtuber 】
     ["NpXSAvg3CuI", 1121, 1368, "Star Divine"],
@@ -222,6 +241,7 @@
     
     //2022.07.10 【 #歌枠 】みんなからのリクエスト歌うYO🍠Singing Stream 🍠【 Vtuber 】
     ["e9CkTAGug_8", 9981, 10213, "忘れじの言の葉"],
+    ["e9CkTAGug_8", 2190, 2420, "空想メソロギヰ"],
         
     //2022.07.08 【 #歌枠 】ピアノ伴奏で歌うYO🎹 Piano only Singing Stream 🎹【 Vtuber 】
     ["oBrxK6kVdZ0", 1381, 1578, "ノーダウト(Piano ver.)"],
@@ -388,7 +408,7 @@
           
     //2021.10.09 【新人Vtuber】チャンネル登録者様3000人or8時間耐久歌枠！！耐久頑張るぞ！！Sing a songs！！ 【耐久歌枠】
     ["j_mpo6iJO5E", 1663, 1878, "ヒロインたるもの！"],
-   
+       
     //2021.10.09 【新人Vtuber】チャンネル登録者様3000人or8時間耐久歌枠！！耐久頑張るぞ！！Sing a songs！！ 【耐久歌枠】
     ["oiGMFkvWQAw", 2262, 2474, "ブルーバード"],
           
