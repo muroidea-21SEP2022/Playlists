@@ -1,4 +1,7 @@
 [
+{"name":"乙夏れい","name_display":"乙夏れい +Reika","tag": ["Otsuka Ray","乙夏れい","Otsuka","Ray","Reika","independent","Japanese","public"],
+"route":"independent/乙夏れい.jsonc",
+"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"乙夏れい (with Reika?)"},
 {"name":"皇黒夢","name_display":"皇黒夢","tag": ["Kuromu Sumeragi","皇黒夢","independent","Japanese","public"],
 "route":"independent/皇黒夢.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"皇黒夢"},
