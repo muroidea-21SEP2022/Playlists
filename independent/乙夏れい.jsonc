@@ -146,7 +146,7 @@
 ["NsCIN3DtxwU", 5335, 5512, "エイリアンエイリアン"],
 ["NsCIN3DtxwU", 5711, 5958, "群青"],
 ["NsCIN3DtxwU", 6194, 6397, "怪物"],
-["NsCIN3DtxwU", 6575, 6833, "はじめてのチュー O"],
+["NsCIN3DtxwU", 6575, 6833, "はじめてのチュー"],
 ["NsCIN3DtxwU", 7045, 7165, "オレンジ とらドラ(アカペラ)"],
 ["NsCIN3DtxwU", 7316, 7504, "フォニィ"],
 ["NsCIN3DtxwU", 7640, 7863, "新時代"],
@@ -195,5 +195,81 @@
 ["NsCIN3DtxwU", 27365, 27605, "ウィーアー！"],
 
   
+ 
+
+
+ 
+
+ ["ub4_KjTUFv4", 117, 415, "キラキラ/aiko"],
+["ub4_KjTUFv4", 1097, 1335, "気まぐれロマンティック"],
+["ub4_KjTUFv4", 2661, 2971, "世界は恋に落ちている"],
+["ub4_KjTUFv4", 3496, 3753, "アイのシナリオ"],
+["ub4_KjTUFv4", 4765, 4969, "うっせぇわ/Ado"],
+["ub4_KjTUFv4", 5199, 5454, "私は最強/Ado"],
+
+["ub4_KjTUFv4", 5565, 5802, "踊/Ado"],
+["ub4_KjTUFv4", 6525, 6770, "群青 /YOASOBI"],
+["ub4_KjTUFv4", 7044, 7248, "怪物 / YOASOBI"],
+["ub4_KjTUFv4", 8489, 8779, "紅蓮の弓矢"],
+["ub4_KjTUFv4", 8998, 9256, "はじめてのチュウ"],
+["ub4_KjTUFv4", 9746, 10059, "名前のない怪物"],
+["ub4_KjTUFv4", 10083, 10256, "Stay me（オリジナル曲）"],
+
+
+
+
+ 
+ 
+
+ 
+["-Uz1aPqJBVM", 125, 328, "神っぽいな (kamippo i na, God-ish) - ピノキオピー"],
+["-Uz1aPqJBVM", 623, 811, "フォニイ (Phony) - ツミキ feat. 可不"],
+["-Uz1aPqJBVM", 987, 1215, "シャルル (Charles) - バルーン(須田景凪)"],
+["-Uz1aPqJBVM", 1371, 1680, "リモコン (Remote Control) - そらる×ろん"],
+["-Uz1aPqJBVM", 1847, 2037, "え? ああ、そう。 (E? Aa, Sou., Hm? Ah, Yes.) - 蝶々P"],
+["-Uz1aPqJBVM", 2271, 2400, "アンノウン・マザーグース (unknown mother goose) - wowaka (現実逃避P)"],
+["-Uz1aPqJBVM", 2412, 2629, "Rolling Girl (ローリンガール) - wowaka (現実逃避P)"],
+
+["-Uz1aPqJBVM", 2930, 3063, "KING - Kanaria"],
+["-Uz1aPqJBVM", 3217, 3394, "ヴァンパイア (Vampire) - DECO*27"],
+["-Uz1aPqJBVM", 3653, 3860, "ワールズエンド・ダンスホール (World's End Dancehall) - wowaka (現実逃避P)"],
+["-Uz1aPqJBVM", 4044, 4268, "ロキ (Roki) - Mikito-P"],
+["-Uz1aPqJBVM", 4479, 4634, "アスノヨゾラ哨戒班 (Asu no Yozora Shoukaihan, Night Sky Patrol of Tomorrow) - Orangestar feat. IA"],
+["-Uz1aPqJBVM", 4724, 4878, "天ノ弱 (amanojyaku) - 164"],
+["-Uz1aPqJBVM", 5169, 5244, "ヒバナ (Hibana) - DECO*27 (Chorus only)"],
+["-Uz1aPqJBVM", 5415, 5600, "ブリキノダンス (Buriki No Dance) - 96猫"],
+["-Uz1aPqJBVM", 5769, 6017, "からくりピエロ (Karakuri Pierrot) - 40mP"],
+["-Uz1aPqJBVM", 6119, 6338, "Echo - Crusher"],
+
+["-Uz1aPqJBVM", 6478, 6730, "ヒビカセ (Hibikase) - ギガP"],
+
+["-Uz1aPqJBVM", 6767, 7161, "ロミオとシンデレラ (Romio & Cinderella) - doriko (w/Reika)"],
+["-Uz1aPqJBVM", 7309, 7548, "千本桜 (Senbon Zakura) - 黒うさP"],
+["-Uz1aPqJBVM", 7708, 7966, "妄想感傷代償連盟 (MKDR) - DECO*27"],
+["-Uz1aPqJBVM", 8205, 8437, "いーあるふぁんくらぶ (1 2 Fanclub) - みきとP"],
+["-Uz1aPqJBVM", 8443, 8696, "メルト (Melt) - supercell"],
+["-Uz1aPqJBVM", 8878, 9074, "ゴーストルール (Ghost Rule) - DECO*27"],
+["-Uz1aPqJBVM", 9084, 9282, "太陽系デスコ (Taiyoukei Desuko, Solar System Disco) - ナユタン星人"],
+["-Uz1aPqJBVM", 9429, 9708, "初音ミクの消失 (Hatsune miku no shoushitsu, The disappearance of Hatsune Miku) - cosMo@暴走P"],
+["-Uz1aPqJBVM", 9778, 10084, "夜明けと蛍 (Yoake to Hotaru) - n-buna"],
+["-Uz1aPqJBVM", 10319, 10551, "夜もすがら君想ふ (yomosugara kimi omou) - 西沢さんP"],
+
+["-Uz1aPqJBVM", 10693, 10915, "フィクサー (fixer) - ぬゆり"],
+["-Uz1aPqJBVM", 11043, 11278, "砂の惑星 (DUNE) - ハチ"],
+["-Uz1aPqJBVM", 11361, 11587, "ラブチーノ (Lovechino) - Junky"],
+["-Uz1aPqJBVM", 11710, 11893, "脱法ロック (law-evading rock) - Neru"],
+["-Uz1aPqJBVM", 12067, 12247, "命に嫌われている。 (inochi ni kirawarete iru., Hated by life itself.) - カンザキイオリ"],
+["-Uz1aPqJBVM", 12320, 12569, "ワールドイズマイン (World is Mine) - supercell"],
+["-Uz1aPqJBVM", 13046, 13312, "心做し (kokoronashi) - 蝶々P"],
+["-Uz1aPqJBVM", 13421, 13625, "ナンセンス文学 (Nansensu Bungaku, Literary Nonsense) - Eve"],
+["-Uz1aPqJBVM", 13713, 13893, "モザイクロール (mozaik role) - DECO*27"],
+["-Uz1aPqJBVM", 14006, 14258, "ココロ・キセキ (kokoro kiseki) - Travolta-P"],
+["-Uz1aPqJBVM", 14600, 14778, "エイリアンエイリアン (Alien Alien) - ナユタン星人"],
+["-Uz1aPqJBVM", 14819, 15116, "Just be Friends - Dixie Flatline"],
+["-Uz1aPqJBVM", 15304, 15624, "炉心融解 (meltdown) - iroha (sasaki)"],
+["-Uz1aPqJBVM", 16009, 16228, "バレリーコ (Bareii Ko, Ballerina girl) - MikitoP"],
+["-Uz1aPqJBVM", 16362, 16622, "白い雪のプリンセスは (Shiroi Yuki no Princess wa, the snow white princess is) - のぼる↑P"],
+["-Uz1aPqJBVM", 16719, 16935, "パンダヒーロー (Panda Hero) - ハチ(米津玄師)"],
+
 []
 ]
