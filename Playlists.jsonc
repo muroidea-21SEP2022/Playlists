@@ -26,4 +26,7 @@
 {"name":"hololive","name_display":"Aki Rosenthal","tag": ["hololive","ホロライブ","japanese","Aki","Aki Rosenthal","public"],
 "route":"hololive/hololive.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"Aki Rosenthal"}
+{"name":"whatever la","name_display":"雜項","tag": ["yayayoi","random","public"],
+"route":"whatever.jsonc",
+"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"Various"},
 ]
