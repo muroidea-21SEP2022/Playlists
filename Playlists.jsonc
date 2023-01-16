@@ -1,4 +1,7 @@
 [
+{"name":"水瀬奏咲","name_display":"水瀬奏咲","tag": ["minase sora","水瀬奏咲","minase","sora","guitar","independent","Japanese","public"],
+"route":"independent/水瀬奏咲.jsonc",
+"maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"水瀬奏咲"},
 {"name":"乙夏れい","name_display":"乙夏れい and Reika","tag": ["Otsuka Ray","乙夏れい","Otsuka","Ray","Reika","independent","Japanese","public"],
 "route":"independent/乙夏れい.jsonc",
 "maintainer":{"name":"muroidea-21SEP2022","url":"https://github.com/muroidea-21SEP2022"},"singer":"乙夏れい (with Reika?)"},
